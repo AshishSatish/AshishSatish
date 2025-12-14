@@ -6,7 +6,6 @@
 
 **Crafting ML infrastructure and backend systems. Decentralization keeps me curious.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-AshishSatish-181717?style=for-the-badge&logo=github)](https://github.com/AshishSatish)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish_Bhosale-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashish-bhosale-ab9695259/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ashish__bhosale848-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ashish_bhosale848/)
 [![X](https://img.shields.io/badge/X-@__ashish__bhosale-000000?style=for-the-badge&logo=x)](https://x.com/_ashish_bhosale)
@@ -17,13 +16,13 @@
 
 ## 🚀 About Me
 
-Final-year **B.Tech in Information Technology** student at **PCCOE Pune** (CGPA: 9.22/10) with a passion for building scalable systems and conducting cutting-edge research. Published author of **3 IEEE conference papers** focusing on quantum-inspired algorithms, ethical AI, and neural architectures.
+Final-year **B.Tech in Information Technology** student at **PCCOE Pune** (CGPA: 9.28/10) with a passion for building scalable systems and conducting cutting-edge research. Published author of **3 IEEE conference papers** focusing on quantum-inspired algorithms, ethical AI, and neural architectures.
 
 ## 🎓 Education
 
 **B.Tech in Information Technology**
 Pimpri Chinchwad College of Engineering, Pune
-*CGPA: 9.22/10 | Aug 2022 - Present*
+*CGPA: 9.28/10 | Aug 2022 - Present*
 
 **Relevant Coursework:** Data Structures & Algorithms, Machine Learning, Neural Networks, Natural Language Processing, Operating Systems, Database Management Systems, Computer Networks
 
